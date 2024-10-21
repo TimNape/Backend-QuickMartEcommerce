@@ -103,3 +103,6 @@ frontend/package-*.json
 .LSOverride
 Migrations
 http/
+/Ecommerce/Ecommerce.WebAPI/Migrations/AppDbContextModelSnapshot.cs
+/Ecommerce/Ecommerce.WebAPI/Migrations/20241010095237_CreateDb.cs
+/Ecommerce/Ecommerce.WebAPI/appsettings.json
