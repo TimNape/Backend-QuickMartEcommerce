@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\pragmaonce.io</_PublishTargetUrl>
+    <History>False|2024-10-14T15:55:54.5517172Z||;False|2024-10-14T17:55:17.2256956+02:00||;False|2024-10-14T17:53:46.1060263+02:00||;True|2024-10-14T16:56:35.7776752+02:00||;True|2024-10-10T15:36:46.4610596+02:00||;False|2024-10-10T12:32:46.1391227+02:00||;True|2024-10-10T11:46:50.4716516+02:00||;True|2024-10-10T09:47:12.9252481+02:00||;True|2024-10-10T03:55:02.5045634+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
